@@ -1,4 +1,4 @@
-# Text Reveal Effect
+# Text Reveal Effect JS
 
 This project demonstrates a text reveal effect when scrolling. It shows how to reveal hidden text as you scroll down the page, with smooth animations and transitions.
 
